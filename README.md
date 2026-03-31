@@ -102,8 +102,7 @@ Additionally:
 - Good generalization performance  
 - No strong signs of overfitting
 
-- <img width="1388" height="490" alt="image" src="https://github.com/user-attachments/assets/313dac2f-62dc-4a8d-9bd4-166272f979ca" />
-
+- <img width="1388" height="490" alt="image" src="Training Performance.png" />
 
 ---
 
@@ -120,7 +119,7 @@ Additionally:
 
 ---
 
-## Applications
+## Real-World Applications
 
 - Emotion-aware virtual assistants  
 - Mental health monitoring systems  
@@ -131,21 +130,8 @@ Additionally:
 
 ---
 
-## Repository Structure
+## Repository Content
 
-facial-emotion-recognition/
-│
-├── notebook/
-│   └── facial_emotion_recognition.ipynb
-│
-├── models/
-│   └── saved_models/
-│
-├── results/
-│   └── plots_and_metrics/
-│
-├── README.md
-└── requirements.txt
-
+- **[Facial Emotion Detection Notebook](Facial_Emotion_Detection_Project.ipynb)**
  
  
