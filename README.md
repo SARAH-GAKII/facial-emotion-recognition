@@ -60,6 +60,15 @@ Additionally:
 
 ## Results
 
+| Model | Test Accuracy | Test Loss | Precision | Recall | F1-Score |
+|------|--------------|----------|-----------|--------|----------|
+| CNN Model 1 | 71.9% | 0.665 | 0.73 | 0.72 | 0.72 |
+| VGG16 | 72.7% | 0.728 | 0.75 | 0.73 | 0.73 |
+| ResNet | 75.0% | 0.828 | 0.76 | 0.75 | 0.75 |
+| EfficientNet | 75.8% | 0.808 | 0.78 | 0.76 | 0.76 |
+| Complex CNN | 81.3% | 0.707 | 0.81 | 0.81 | 0.81 |
+| CNN Model 2 | **83.6%** | **0.454** | 0.84 | 0.84 | 0.84 |
+
 - Best custom CNN achieved:
   - ~84% test accuracy  
   - Lowest loss among all models  
