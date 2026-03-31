@@ -1,4 +1,4 @@
-<img width="822" height="88" alt="image" src="https://github.com/user-attachments/assets/8c7b44b2-4723-4c90-9250-eaaa602ad4a9" /># Facial Emotion Recognition using Deep Learning
+# Facial Emotion Recognition using Deep Learning
 
 ## Overview
 This project develops a deep learning-based computer vision system to classify human facial expressions into emotional categories. Facial emotion recognition is a key component of affective computing, enabling machines to interpret human emotional states from visual cues.
