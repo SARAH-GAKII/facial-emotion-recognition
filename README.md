@@ -100,7 +100,10 @@ Additionally:
 
 - Stable training dynamics  
 - Good generalization performance  
-- No strong signs of overfitting  
+- No strong signs of overfitting
+
+- <img width="1388" height="490" alt="image" src="https://github.com/user-attachments/assets/313dac2f-62dc-4a8d-9bd4-166272f979ca" />
+
 
 ---
 
