@@ -86,7 +86,7 @@ Additionally:
 - High-intensity emotions (happy, surprise) are easier to classify  
 - Subtle emotions (neutral, sad) show higher confusion
 
-  <img width="505" height="470" alt="confusion matrix" src=" Confusion Matrix.png" />
+  <img width="505" height="470" alt="confusion matrix" src="Confusion Matrix.png" />
 
 #### Model complexity does not guarantee better performance
 - Deeper models did not consistently improve results  
