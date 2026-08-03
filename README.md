@@ -132,8 +132,7 @@ Additionally:
 
 ---
 
-## Repository Content
-
+## More on the notebook:
 - **[Facial Emotion Detection Notebook](Facial_Emotion_Detection_Project.ipynb)**
  
  
